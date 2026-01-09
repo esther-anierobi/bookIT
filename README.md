@@ -21,7 +21,6 @@ A comprehensive REST API for a modern booking platform called **BookIt**. This A
 - **JWT Authentication**: Secure token-based authentication
 - **Role-Based Access Control**: User and Admin roles with appropriate permissions
 - **Database Migrations**: Alembic integration for schema versioning
-- **Comprehensive Testing**: Full test coverage with pytest
 - **Professional Logging**: Structured logging throughout the application
 - **API Documentation**: Auto-generated OpenAPI/Swagger documentation
 - **Data Validation**: Robust input validation with Pydantic schemas
@@ -33,7 +32,6 @@ A comprehensive REST API for a modern booking platform called **BookIt**. This A
 - **Database**: PostgreSQL (SQLite for testing)
 - **ORM**: SQLAlchemy 2.0
 - **Authentication**: JWT tokens with bcrypt password hashing
-- **Testing**: pytest with test fixtures and factories
 - **Migration**: Alembic
 - **Documentation**: OpenAPI/Swagger UI
 
